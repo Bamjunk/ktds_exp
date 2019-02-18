@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-from ktds2
-=======
 from ktds_exp
->>>>>>> dcff926fe4a8203e9cd5a3db2dc2bba7e3070277
